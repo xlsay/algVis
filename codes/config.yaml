@@ -1,0 +1,13 @@
+# general params
+source: '../data/car.mp4' # sream source for inference. e.g., video, img, dir, url
+stream_out: 'rtmp://your_streaming_serverIP/stream/s1' # stream url to push / dir to save marked video
+max_side: 600 # max side of push size
+font: 'font/Microsoft-YaHei-Semibold.ttc' # path of fontstyle file
+
+
+Detetion:
+  weights: 'weights/det/yolov8m.pt'
+  conf: 0.7
+  box_color: [[0,255,0],] # marker-color of each cls; if invalid/empty value, use random color
+
+
