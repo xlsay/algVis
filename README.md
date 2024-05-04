@@ -18,7 +18,7 @@ step2: 运行
 ```
 ## 如果你愿意，请资助我1元。
 <p>
-   <img height="400" src="./figs/zfb.jpg"></a>
-   <img height="400" src="./figs/wx.jpg"></a>
+   <img height="200" src="./figs/zfb.jpg"></a>
+   <img height="200" src="./figs/wx.jpg"></a>
 </p>
 
