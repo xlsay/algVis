@@ -5,7 +5,7 @@
    <img width="850" src="./figs/demo.gif"></a>
 </p>
 
-## 运行
+### 运行
 ```
 step0: 主要python libs:
     - ultralytics   8.1.9
@@ -16,9 +16,12 @@ step2: 运行
     python main.py
 
 ```
-## 如果你愿意，请资助我1元。
+
+
+<!-- ### 赞助
+如果你觉得这个项目对你有帮助，请给我一个star，或一点点扫码支持，非常感谢 :pray:。
 <p>
-   <img height="200" src="./figs/zfb.jpg"></a>
-   <img height="200" src="./figs/wx.jpg"></a>
-</p>
+   <img height="350" src="./figs/zfb.jpg"></a>
+   <img height="350" src="./figs/wx.jpg"></a>
+</p> -->
 
